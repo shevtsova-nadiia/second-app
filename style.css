@@ -8,13 +8,9 @@ h3 {
   display: flex;
   align-items: center;
   background-color: #e7e7e7;
-
   column-gap: 20px;
   height: 600px;
   justify-content: center;
-
-  /* unicode-bidi: isolate;
-  width: 412px; */
 }
 .box {
   background-color: white;
